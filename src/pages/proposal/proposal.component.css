@@ -1,0 +1,12 @@
+.page-container {
+    width: 100%;
+    align-items: center;
+}
+
+.form-field {
+    margin: 30px 0;
+}
+
+.error {
+    color: red;
+}
