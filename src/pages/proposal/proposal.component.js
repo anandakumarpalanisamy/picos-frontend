@@ -108,7 +108,7 @@ const Proposal = () => {
         }
         if (validForm(errors)) {           
             // Printing out the data
-            console.log("Final Data", formData);
+            console.log("Proposal Data", formData);
         } else {
             console.log("Form has errors. Please fix them!!")
         }
